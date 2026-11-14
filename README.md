@@ -1,6 +1,15 @@
 XO Arena
 A modern, responsive Tic-Tac-Toe game built with React.
 
+## Live Demo
+
+**Play XO Arena:** https://tic-tac-toe-xo-arena.vercel.app/
+
+## Source Code
+
+**GitHub Repository:** [View XO Arena on GitHub](YOUR_GITHUB_REPOSITORY_URL)
+
+
 About the Project:
 XO Arena is an interactive Tic-Tac-Toe application featuring two-player gameplay, a computer opponent powered by the Minimax algorithm, customizable player symbols, and a persistent scoreboard.
 
